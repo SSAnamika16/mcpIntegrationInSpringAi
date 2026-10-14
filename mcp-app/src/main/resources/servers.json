@@ -5,7 +5,7 @@
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
-        "C:\\Users\\ANAMIKA\\Desktop\\springAiOnly\\mcp-app/mcp",
+        "C:\\Users\\ANAMIKA\\Desktop\\springAiOnly\\mcp-app\\mcp",
         "C:\\Users\\ANAMIKA\\Desktop\\springAiOnly\\mcp-app\\personal_data"
       ]
     }
